@@ -1,0 +1,12 @@
+C:\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Projects\HelloWorld\HelloWorld\bin\Debug\MetroFramework.dll
+C:\Projects\HelloWorld\HelloWorld\bin\Debug\MetroFramework.Fonts.dll
+C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
