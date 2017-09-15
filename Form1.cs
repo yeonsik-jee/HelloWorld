@@ -13,6 +13,7 @@ namespace HelloWorld
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
         int aa = 1;
+        int bb = 2;
         public Form1()
         {
             InitializeComponent();
