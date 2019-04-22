@@ -10,3 +10,14 @@ C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.
 C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Github\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Github\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Github\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Github\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Github\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Github\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Github\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Github\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Github\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Github\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Github\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
