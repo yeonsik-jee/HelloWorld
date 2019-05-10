@@ -16,7 +16,9 @@ namespace HelloWorld
         int bb = 2; 
         public Form1()
         {
-            InitializeComponent(); // test
+            InitializeComponent(); // test123
+
+            MessageBox.Show("Hello World");
         }
     }
 }
