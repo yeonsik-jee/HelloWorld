@@ -16,7 +16,7 @@ namespace HelloWorld
         int bb = 2; 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); // test
         }
     }
 }
